@@ -1,4 +1,4 @@
-EECS 280 - Note 0
+EECS 280 - Note 0 
 ==================
 
 ## Procedural Abstraction
